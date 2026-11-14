@@ -1,0 +1,698 @@
+[
+  {
+    "id": "demo-01",
+    "title": "山海来信",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.0",
+    "genre": "旅行",
+    "access": "免费试看",
+    "image": "/posters/demo-01.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 0,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-01-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-01-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-01-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-01-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-02",
+    "title": "城市漫游",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.1",
+    "genre": "生活",
+    "access": "免费试看",
+    "image": "/posters/demo-02.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 1,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-02-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-02-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-02-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-02-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-03",
+    "title": "星河旅人",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.2",
+    "genre": "科幻",
+    "access": "免费试看",
+    "image": "/posters/demo-03.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 2,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-03-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-03-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-03-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-03-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-04",
+    "title": "雨后花园",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.3",
+    "genre": "自然",
+    "access": "免费试看",
+    "image": "/posters/demo-04.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 3,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-04-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-04-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-04-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-04-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-05",
+    "title": "远方的灯",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.4",
+    "genre": "旅行",
+    "access": "免费试看",
+    "image": "/posters/demo-05.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 4,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-05-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-05-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-05-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-05-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-06",
+    "title": "时间邮局",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.5",
+    "genre": "生活",
+    "access": "免费试看",
+    "image": "/posters/demo-06.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 5,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-06-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-06-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-06-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-06-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-07",
+    "title": "森林回声",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.6",
+    "genre": "科幻",
+    "access": "免费试看",
+    "image": "/posters/demo-07.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 6,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-07-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-07-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-07-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-07-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-08",
+    "title": "春日列车",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.7",
+    "genre": "自然",
+    "access": "免费试看",
+    "image": "/posters/demo-08.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 7,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-08-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-08-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-08-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-08-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-09",
+    "title": "云端日记",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.8",
+    "genre": "旅行",
+    "access": "免费试看",
+    "image": "/posters/demo-09.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 8,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-09-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-09-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-09-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-09-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-10",
+    "title": "海边书店",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "8.9",
+    "genre": "生活",
+    "access": "免费试看",
+    "image": "/posters/demo-10.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 9,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-10-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-10-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-10-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-10-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-11",
+    "title": "月光航线",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "9.0",
+    "genre": "科幻",
+    "access": "免费试看",
+    "image": "/posters/demo-11.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 10,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-11-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-11-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-11-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-11-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  },
+  {
+    "id": "demo-12",
+    "title": "风的方向",
+    "subtitle": "一段关于探索、发现与相遇的虚构故事。",
+    "description": "本条目为前端演示数据，不对应真实影视作品。播放器共用本仓库的原创几何动画，无影视片源。",
+    "year": "2026",
+    "episodes": 3,
+    "plannedEpisodes": 3,
+    "freeEpisodes": 3,
+    "rating": "9.1",
+    "genre": "自然",
+    "access": "免费试看",
+    "image": "/posters/demo-12.svg",
+    "tags": ["虚构数据", "前端演示"],
+    "status": "published",
+    "sort_order": 11,
+    "updated": 1794600000000,
+    "firstEpisode": {
+      "id": "demo-12-01",
+      "number": 1,
+      "title": "演示第 1 集",
+      "access": "free",
+      "previewSeconds": 0,
+      "priceCents": null
+    },
+    "episodeList": [
+      {
+        "id": "demo-12-01",
+        "number": 1,
+        "title": "演示第 1 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-12-02",
+        "number": 2,
+        "title": "演示第 2 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      },
+      {
+        "id": "demo-12-03",
+        "number": 3,
+        "title": "演示第 3 集",
+        "access": "free",
+        "previewSeconds": 0,
+        "priceCents": null
+      }
+    ],
+    "accessCounts": {
+      "free": 3,
+      "vip": 0,
+      "paid": 0
+    },
+    "purchasableEpisodes": 0
+  }
+]

@@ -1,5 +1,7 @@
 # VidNest KY · 用户端前端演示
 
+[在线演示](https://vidnest-ky-demo.green-venus-1140.chatgpt.site) · [下载静态部署包](downloads/vidnest-frontend-static.zip) · [MIT 许可证](LICENSE)
+
 供软件开发学习、技术研究与二次开发参考的视频界面项目，从 VidNest 三端工程的用户端页面整理而来。采用 **MIT 许可证**，允许使用、修改、分发和商业使用代码，须保留版权与许可声明。代码许可不免除实际运营所需的内容授权、资质与合规义务。
 
 本仓库只有用户端源码和静态构建配置，不包含 Django 后端、管理后台、代理后台、数据库、真实业务数据、生产配置或原项目 Git 历史。
